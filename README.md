@@ -1,4 +1,4 @@
-# Unfaithful Attention
+# When Attention Fails: Visual Analytics Reveals Interpretability Pitfalls in Attention-based Models.
 
 ## Description
 
