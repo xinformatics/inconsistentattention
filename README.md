@@ -1,4 +1,4 @@
-# When Attention Fails: Visual Analytics Reveals Interpretability Pitfalls in Attention-based Models.
+# When Attention Fails: Pitfalls of Attention-based Model Interpretability for High-dimensional Clinical Time-Series Modeling
 
 ## Description
 
