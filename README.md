@@ -1,8 +1,5 @@
 # When Attention Fails: Pitfalls of Attention-based Model Interpretability for High-dimensional Clinical Time-Series Modeling
 
-## Description
-
-This is the GitHub repository for the project **Unfaithful attention** by Shashank Yadav and Vignesh Subbian.
 
 ## Getting Started
 
