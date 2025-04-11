@@ -1,5 +1,4 @@
-# When Attention Fails: Pitfalls of Attention-based Model Interpretability for High-dimensional Clinical Time-Series Modeling
-
+# When Attention Fails: Pitfalls of Attention-based Model Interpretability for High-dimensional Clinical Time-Series Modeling [CHIL 2025]
 
 ## Getting Started
 
